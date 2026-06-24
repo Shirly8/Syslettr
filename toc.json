@@ -1,12 +1,5 @@
 {
   "generated": [
-    {
-      "topic": "URL Shortener",
-      "tier": 1,
-      "angle": "Scale, collision-free ID generation, redirect speed",
-      "sent_at": "2026-06-23",
-      "email_number": 1
-    }
   ],
   "stats": {
     "total_sent": 1,
