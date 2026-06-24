@@ -435,8 +435,20 @@ def send_email(subject: str, html_body: str, rendered: dict):
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
+def check_smtp():
+    """Verify SMTP credentials before doing any expensive work."""
+    print("Checking email credentials...")
+    with smtplib.SMTP("smtp.gmail.com", 587) as server:
+        server.starttls()
+        server.login(SENDER, GMAIL_APP_PASSWORD)
+    print("Email credentials OK")
+
+
 def main():
     test_mode = "--test" in sys.argv
+
+    if not test_mode:
+        check_smtp()
 
     toc        = load_toc()
     topic_item = pick_next_topic(toc)

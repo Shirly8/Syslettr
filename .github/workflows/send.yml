@@ -22,13 +22,31 @@ jobs:
       - name: Install Playwright browser
         run: python -m playwright install chromium --with-deps
 
+      - name: Check email credentials
+        env:
+          GMAIL_SMTP: ${{ secrets.GMAIL_SMTP }}
+          SENDER: ${{ secrets.SENDER }}
+          RECEIVER: ${{ secrets.RECEIVER }}
+        run: |
+          python -c "
+          import smtplib, os
+          sender = os.environ['SENDER']
+          pwd = os.environ['GMAIL_SMTP']
+          print(f'SENDER length: {len(sender)}')
+          print(f'GMAIL_SMTP length: {len(pwd)}')
+          with smtplib.SMTP('smtp.gmail.com', 587) as s:
+              s.starttls()
+              s.login(sender, pwd)
+          print('SMTP login successful')
+          "
+
       - name: Run
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_SMTP: ${{ secrets.GMAIL_SMTP }}
           SENDER: ${{ secrets.SENDER }}
           RECEIVER: ${{ secrets.RECEIVER }}
-          CLAUDE_MODEL: claude-haiku-4-5-20251001
+          CLAUDE_MODEL: claude-sonnet-4-6
         run: python generate.py
 
       - name: Commit toc.json
