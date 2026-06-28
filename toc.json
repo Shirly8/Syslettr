@@ -6,12 +6,19 @@
       "angle": "Scale, collision-free ID generation, redirect latency",
       "sent_at": "2026-06-25",
       "email_number": 1
+    },
+    {
+      "topic": "Rate Limiter",
+      "tier": 1,
+      "angle": "Distributed enforcement without a single bottleneck",
+      "sent_at": "2026-06-28",
+      "email_number": 2
     }
   ],
   "stats": {
-    "total_sent": 1,
+    "total_sent": 2,
     "tier_counts": {
-      "1": 1,
+      "1": 2,
       "2": 0,
       "3": 0,
       "4": 0
