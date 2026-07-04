@@ -20,12 +20,19 @@
       "angle": "Fan-out strategies and feed generation at scale",
       "sent_at": "2026-07-01",
       "email_number": 3
+    },
+    {
+      "topic": "Notification System",
+      "tier": 1,
+      "angle": "Fan-out, delivery guarantees, multi-channel routing",
+      "sent_at": "2026-07-04",
+      "email_number": 4
     }
   ],
   "stats": {
-    "total_sent": 3,
+    "total_sent": 4,
     "tier_counts": {
-      "1": 3,
+      "1": 4,
       "2": 0,
       "3": 0,
       "4": 0
