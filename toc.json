@@ -27,12 +27,19 @@
       "angle": "Fan-out, delivery guarantees, multi-channel routing",
       "sent_at": "2026-07-04",
       "email_number": 4
+    },
+    {
+      "topic": "Chat System",
+      "tier": 1,
+      "angle": "Real-time messaging at scale with fan-out",
+      "sent_at": "2026-07-07",
+      "email_number": 5
     }
   ],
   "stats": {
-    "total_sent": 4,
+    "total_sent": 5,
     "tier_counts": {
-      "1": 4,
+      "1": 5,
       "2": 0,
       "3": 0,
       "4": 0
