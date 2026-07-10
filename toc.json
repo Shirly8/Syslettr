@@ -34,12 +34,19 @@
       "angle": "Real-time messaging at scale with fan-out",
       "sent_at": "2026-07-07",
       "email_number": 5
+    },
+    {
+      "topic": "Search Autocomplete",
+      "tier": 1,
+      "angle": "Trie caching, ranking, and real-time freshness",
+      "sent_at": "2026-07-10",
+      "email_number": 6
     }
   ],
   "stats": {
-    "total_sent": 5,
+    "total_sent": 6,
     "tier_counts": {
-      "1": 5,
+      "1": 6,
       "2": 0,
       "3": 0,
       "4": 0
