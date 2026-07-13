@@ -41,12 +41,19 @@
       "angle": "Trie caching, ranking, and real-time freshness",
       "sent_at": "2026-07-10",
       "email_number": 6
+    },
+    {
+      "topic": "Distributed Cache (Redis)",
+      "tier": 1,
+      "angle": "Consistency, eviction, and cluster topology trade-offs",
+      "sent_at": "2026-07-13",
+      "email_number": 7
     }
   ],
   "stats": {
-    "total_sent": 6,
+    "total_sent": 7,
     "tier_counts": {
-      "1": 6,
+      "1": 7,
       "2": 0,
       "3": 0,
       "4": 0
