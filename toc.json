@@ -48,12 +48,19 @@
       "angle": "Consistency, eviction, and cluster topology trade-offs",
       "sent_at": "2026-07-13",
       "email_number": 7
+    },
+    {
+      "topic": "Web Crawler",
+      "tier": 1,
+      "angle": "Scale, politeness, deduplication, and frontier management",
+      "sent_at": "2026-07-16",
+      "email_number": 8
     }
   ],
   "stats": {
-    "total_sent": 7,
+    "total_sent": 8,
     "tier_counts": {
-      "1": 7,
+      "1": 8,
       "2": 0,
       "3": 0,
       "4": 0
