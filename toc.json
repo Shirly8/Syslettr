@@ -55,12 +55,19 @@
       "angle": "Scale, politeness, deduplication, and frontier management",
       "sent_at": "2026-07-16",
       "email_number": 8
+    },
+    {
+      "topic": "YouTube / Video Platform",
+      "tier": 1,
+      "angle": "Upload pipeline, transcoding, and adaptive streaming",
+      "sent_at": "2026-07-19",
+      "email_number": 9
     }
   ],
   "stats": {
-    "total_sent": 8,
+    "total_sent": 9,
     "tier_counts": {
-      "1": 8,
+      "1": 9,
       "2": 0,
       "3": 0,
       "4": 0
