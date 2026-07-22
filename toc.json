@@ -62,12 +62,19 @@
       "angle": "Upload pipeline, transcoding, and adaptive streaming",
       "sent_at": "2026-07-19",
       "email_number": 9
+    },
+    {
+      "topic": "Uber / Ride Sharing",
+      "tier": 1,
+      "angle": "Real-time matching, location tracking, dispatch",
+      "sent_at": "2026-07-22",
+      "email_number": 10
     }
   ],
   "stats": {
-    "total_sent": 9,
+    "total_sent": 10,
     "tier_counts": {
-      "1": 9,
+      "1": 10,
       "2": 0,
       "3": 0,
       "4": 0
