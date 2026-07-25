@@ -69,12 +69,19 @@
       "angle": "Real-time matching, location tracking, dispatch",
       "sent_at": "2026-07-22",
       "email_number": 10
+    },
+    {
+      "topic": "Google Drive / File Storage",
+      "tier": 1,
+      "angle": "Chunked uploads, sync, and metadata at scale",
+      "sent_at": "2026-07-25",
+      "email_number": 11
     }
   ],
   "stats": {
-    "total_sent": 10,
+    "total_sent": 11,
     "tier_counts": {
-      "1": 10,
+      "1": 11,
       "2": 0,
       "3": 0,
       "4": 0
