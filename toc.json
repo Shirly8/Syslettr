@@ -76,12 +76,19 @@
       "angle": "Chunked uploads, sync, and metadata at scale",
       "sent_at": "2026-07-25",
       "email_number": 11
+    },
+    {
+      "topic": "Distributed Message Queue",
+      "tier": 1,
+      "angle": "Durability, ordering, and consumer scaling",
+      "sent_at": "2026-07-28",
+      "email_number": 12
     }
   ],
   "stats": {
-    "total_sent": 11,
+    "total_sent": 12,
     "tier_counts": {
-      "1": 11,
+      "1": 12,
       "2": 0,
       "3": 0,
       "4": 0
