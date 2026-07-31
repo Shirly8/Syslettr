@@ -83,12 +83,19 @@
       "angle": "Durability, ordering, and consumer scaling",
       "sent_at": "2026-07-28",
       "email_number": 12
+    },
+    {
+      "topic": "Consistent Hashing",
+      "tier": 1,
+      "angle": "Distributing load across nodes without reshuffling everything",
+      "sent_at": "2026-07-31",
+      "email_number": 13
     }
   ],
   "stats": {
-    "total_sent": 12,
+    "total_sent": 13,
     "tier_counts": {
-      "1": 12,
+      "1": 13,
       "2": 0,
       "3": 0,
       "4": 0
