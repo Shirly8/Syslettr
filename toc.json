@@ -90,12 +90,19 @@
       "angle": "Distributing load across nodes without reshuffling everything",
       "sent_at": "2026-07-31",
       "email_number": 13
+    },
+    {
+      "topic": "CAP Theorem",
+      "tier": 1,
+      "angle": "Choosing consistency vs. availability under partition",
+      "sent_at": "2026-08-01",
+      "email_number": 14
     }
   ],
   "stats": {
-    "total_sent": 13,
+    "total_sent": 14,
     "tier_counts": {
-      "1": 13,
+      "1": 14,
       "2": 0,
       "3": 0,
       "4": 0
