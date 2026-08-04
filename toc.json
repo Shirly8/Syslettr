@@ -97,12 +97,19 @@
       "angle": "Choosing consistency vs. availability under partition",
       "sent_at": "2026-08-01",
       "email_number": 14
+    },
+    {
+      "topic": "Database Sharding",
+      "tier": 1,
+      "angle": "Shard strategy, routing, and rebalancing tradeoffs",
+      "sent_at": "2026-08-04",
+      "email_number": 15
     }
   ],
   "stats": {
-    "total_sent": 14,
+    "total_sent": 15,
     "tier_counts": {
-      "1": 14,
+      "1": 15,
       "2": 0,
       "3": 0,
       "4": 0
