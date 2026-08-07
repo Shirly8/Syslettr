@@ -104,12 +104,19 @@
       "angle": "Shard strategy, routing, and rebalancing tradeoffs",
       "sent_at": "2026-08-04",
       "email_number": 15
+    },
+    {
+      "topic": "CDN Architecture",
+      "tier": 1,
+      "angle": "Cache hierarchy, PoP placement, origin offload",
+      "sent_at": "2026-08-07",
+      "email_number": 16
     }
   ],
   "stats": {
-    "total_sent": 15,
+    "total_sent": 16,
     "tier_counts": {
-      "1": 15,
+      "1": 16,
       "2": 0,
       "3": 0,
       "4": 0
