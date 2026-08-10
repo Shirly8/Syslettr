@@ -111,12 +111,19 @@
       "angle": "Cache hierarchy, PoP placement, origin offload",
       "sent_at": "2026-08-07",
       "email_number": 16
+    },
+    {
+      "topic": "SQL vs NoSQL Tradeoffs",
+      "tier": 1,
+      "angle": "Choosing the right DB for your workload",
+      "sent_at": "2026-08-10",
+      "email_number": 17
     }
   ],
   "stats": {
-    "total_sent": 16,
+    "total_sent": 17,
     "tier_counts": {
-      "1": 16,
+      "1": 17,
       "2": 0,
       "3": 0,
       "4": 0
