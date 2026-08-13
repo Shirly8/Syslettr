@@ -118,12 +118,19 @@
       "angle": "Choosing the right DB for your workload",
       "sent_at": "2026-08-10",
       "email_number": 17
+    },
+    {
+      "topic": "Load Balancer Design",
+      "tier": 1,
+      "angle": "Algorithms, health checks, and sticky sessions",
+      "sent_at": "2026-08-13",
+      "email_number": 18
     }
   ],
   "stats": {
-    "total_sent": 17,
+    "total_sent": 18,
     "tier_counts": {
-      "1": 17,
+      "1": 18,
       "2": 0,
       "3": 0,
       "4": 0
