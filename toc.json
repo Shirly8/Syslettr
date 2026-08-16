@@ -125,12 +125,19 @@
       "angle": "Algorithms, health checks, and sticky sessions",
       "sent_at": "2026-08-13",
       "email_number": 18
+    },
+    {
+      "topic": "Key-Value Store",
+      "tier": 1,
+      "angle": "Distributed storage, replication, and consistency tradeoffs",
+      "sent_at": "2026-08-16",
+      "email_number": 19
     }
   ],
   "stats": {
-    "total_sent": 18,
+    "total_sent": 19,
     "tier_counts": {
-      "1": 18,
+      "1": 19,
       "2": 0,
       "3": 0,
       "4": 0
