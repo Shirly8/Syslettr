@@ -132,12 +132,19 @@
       "angle": "Distributed storage, replication, and consistency tradeoffs",
       "sent_at": "2026-08-16",
       "email_number": 19
+    },
+    {
+      "topic": "Distributed Job Scheduler",
+      "tier": 1,
+      "angle": "Reliability, deduplication, and at-least-once execution",
+      "sent_at": "2026-08-19",
+      "email_number": 20
     }
   ],
   "stats": {
-    "total_sent": 19,
+    "total_sent": 20,
     "tier_counts": {
-      "1": 19,
+      "1": 20,
       "2": 0,
       "3": 0,
       "4": 0
