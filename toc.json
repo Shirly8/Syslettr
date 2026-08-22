@@ -139,12 +139,19 @@
       "angle": "Reliability, deduplication, and at-least-once execution",
       "sent_at": "2026-08-19",
       "email_number": 20
+    },
+    {
+      "topic": "Distributed Lock Service",
+      "tier": 1,
+      "angle": "Correctness, lease expiry, and fencing tokens",
+      "sent_at": "2026-08-22",
+      "email_number": 21
     }
   ],
   "stats": {
-    "total_sent": 20,
+    "total_sent": 21,
     "tier_counts": {
-      "1": 20,
+      "1": 21,
       "2": 0,
       "3": 0,
       "4": 0
