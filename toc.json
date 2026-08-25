@@ -146,12 +146,19 @@
       "angle": "Correctness, lease expiry, and fencing tokens",
       "sent_at": "2026-08-22",
       "email_number": 21
+    },
+    {
+      "topic": "Task Queue System",
+      "tier": 1,
+      "angle": "Reliability, ordering, and at-least-once delivery",
+      "sent_at": "2026-08-25",
+      "email_number": 22
     }
   ],
   "stats": {
-    "total_sent": 21,
+    "total_sent": 22,
     "tier_counts": {
-      "1": 21,
+      "1": 22,
       "2": 0,
       "3": 0,
       "4": 0
