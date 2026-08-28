@@ -153,12 +153,19 @@
       "angle": "Reliability, ordering, and at-least-once delivery",
       "sent_at": "2026-08-25",
       "email_number": 22
+    },
+    {
+      "topic": "Service Discovery System",
+      "tier": 1,
+      "angle": "Dynamic registry with health checks and failover",
+      "sent_at": "2026-08-28",
+      "email_number": 23
     }
   ],
   "stats": {
-    "total_sent": 22,
+    "total_sent": 23,
     "tier_counts": {
-      "1": 22,
+      "1": 23,
       "2": 0,
       "3": 0,
       "4": 0
