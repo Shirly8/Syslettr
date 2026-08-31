@@ -160,12 +160,19 @@
       "angle": "Dynamic registry with health checks and failover",
       "sent_at": "2026-08-28",
       "email_number": 23
+    },
+    {
+      "topic": "Monitoring & Alerting System",
+      "tier": 1,
+      "angle": "Metrics ingestion, storage, and alert fanout",
+      "sent_at": "2026-08-31",
+      "email_number": 24
     }
   ],
   "stats": {
-    "total_sent": 23,
+    "total_sent": 24,
     "tier_counts": {
-      "1": 23,
+      "1": 24,
       "2": 0,
       "3": 0,
       "4": 0
