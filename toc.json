@@ -167,12 +167,19 @@
       "angle": "Metrics ingestion, storage, and alert fanout",
       "sent_at": "2026-08-31",
       "email_number": 24
+    },
+    {
+      "topic": "Push Notification Service",
+      "tier": 1,
+      "angle": "Fan-out at scale with delivery guarantees",
+      "sent_at": "2026-09-01",
+      "email_number": 25
     }
   ],
   "stats": {
-    "total_sent": 24,
+    "total_sent": 25,
     "tier_counts": {
-      "1": 24,
+      "1": 25,
       "2": 0,
       "3": 0,
       "4": 0
