@@ -174,12 +174,19 @@
       "angle": "Fan-out at scale with delivery guarantees",
       "sent_at": "2026-09-01",
       "email_number": 25
+    },
+    {
+      "topic": "Flash Sale System",
+      "tier": 1,
+      "angle": "Inventory atomicity under extreme write concurrency",
+      "sent_at": "2026-09-04",
+      "email_number": 26
     }
   ],
   "stats": {
-    "total_sent": 25,
+    "total_sent": 26,
     "tier_counts": {
-      "1": 25,
+      "1": 26,
       "2": 0,
       "3": 0,
       "4": 0
