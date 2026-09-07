@@ -181,12 +181,19 @@
       "angle": "Inventory atomicity under extreme write concurrency",
       "sent_at": "2026-09-04",
       "email_number": 26
+    },
+    {
+      "topic": "Full-Text Search Engine",
+      "tier": 1,
+      "angle": "Indexing pipeline, ranking, and query latency",
+      "sent_at": "2026-09-07",
+      "email_number": 27
     }
   ],
   "stats": {
-    "total_sent": 26,
+    "total_sent": 27,
     "tier_counts": {
-      "1": 26,
+      "1": 27,
       "2": 0,
       "3": 0,
       "4": 0
