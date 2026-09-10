@@ -188,12 +188,19 @@
       "angle": "Indexing pipeline, ranking, and query latency",
       "sent_at": "2026-09-07",
       "email_number": 27
+    },
+    {
+      "topic": "Pastebin",
+      "tier": 1,
+      "angle": "Unique ID generation, storage, and read scaling",
+      "sent_at": "2026-09-10",
+      "email_number": 28
     }
   ],
   "stats": {
-    "total_sent": 27,
+    "total_sent": 28,
     "tier_counts": {
-      "1": 27,
+      "1": 28,
       "2": 0,
       "3": 0,
       "4": 0
