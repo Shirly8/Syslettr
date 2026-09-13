@@ -195,13 +195,20 @@
       "angle": "Unique ID generation, storage, and read scaling",
       "sent_at": "2026-09-10",
       "email_number": 28
+    },
+    {
+      "topic": "Twitter / Social Graph",
+      "tier": 2,
+      "angle": "Fan-out on write vs read at scale",
+      "sent_at": "2026-09-13",
+      "email_number": 29
     }
   ],
   "stats": {
-    "total_sent": 28,
+    "total_sent": 29,
     "tier_counts": {
       "1": 28,
-      "2": 0,
+      "2": 1,
       "3": 0,
       "4": 0
     }
