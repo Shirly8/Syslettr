@@ -202,13 +202,20 @@
       "angle": "Fan-out on write vs read at scale",
       "sent_at": "2026-09-13",
       "email_number": 29
+    },
+    {
+      "topic": "Hotel / Ticket Booking System",
+      "tier": 2,
+      "angle": "Preventing double-booking under concurrent reservation load",
+      "sent_at": "2026-09-16",
+      "email_number": 30
     }
   ],
   "stats": {
-    "total_sent": 29,
+    "total_sent": 30,
     "tier_counts": {
       "1": 28,
-      "2": 1,
+      "2": 2,
       "3": 0,
       "4": 0
     }
