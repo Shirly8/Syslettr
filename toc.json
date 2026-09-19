@@ -209,13 +209,20 @@
       "angle": "Preventing double-booking under concurrent reservation load",
       "sent_at": "2026-09-16",
       "email_number": 30
+    },
+    {
+      "topic": "Ad Click Aggregation",
+      "tier": 2,
+      "angle": "Real-time counting at massive write scale",
+      "sent_at": "2026-09-19",
+      "email_number": 31
     }
   ],
   "stats": {
-    "total_sent": 30,
+    "total_sent": 31,
     "tier_counts": {
       "1": 28,
-      "2": 2,
+      "2": 3,
       "3": 0,
       "4": 0
     }
