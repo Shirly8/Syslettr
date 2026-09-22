@@ -216,13 +216,20 @@
       "angle": "Real-time counting at massive write scale",
       "sent_at": "2026-09-19",
       "email_number": 31
+    },
+    {
+      "topic": "Proximity Service / Yelp",
+      "tier": 2,
+      "angle": "Geospatial indexing, search radius, and read scale",
+      "sent_at": "2026-09-22",
+      "email_number": 32
     }
   ],
   "stats": {
-    "total_sent": 31,
+    "total_sent": 32,
     "tier_counts": {
       "1": 28,
-      "2": 3,
+      "2": 4,
       "3": 0,
       "4": 0
     }
