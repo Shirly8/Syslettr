@@ -223,13 +223,20 @@
       "angle": "Geospatial indexing, search radius, and read scale",
       "sent_at": "2026-09-22",
       "email_number": 32
+    },
+    {
+      "topic": "Payment System",
+      "tier": 2,
+      "angle": "Idempotency, consistency, and fraud prevention",
+      "sent_at": "2026-09-25",
+      "email_number": 33
     }
   ],
   "stats": {
-    "total_sent": 32,
+    "total_sent": 33,
     "tier_counts": {
       "1": 28,
-      "2": 4,
+      "2": 5,
       "3": 0,
       "4": 0
     }
