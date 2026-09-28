@@ -230,13 +230,20 @@
       "angle": "Idempotency, consistency, and fraud prevention",
       "sent_at": "2026-09-25",
       "email_number": 33
+    },
+    {
+      "topic": "Collaborative Document Editor",
+      "tier": 2,
+      "angle": "Real-time conflict resolution and operational transforms",
+      "sent_at": "2026-09-28",
+      "email_number": 34
     }
   ],
   "stats": {
-    "total_sent": 33,
+    "total_sent": 34,
     "tier_counts": {
       "1": 28,
-      "2": 5,
+      "2": 6,
       "3": 0,
       "4": 0
     }
