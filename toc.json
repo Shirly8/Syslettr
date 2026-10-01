@@ -237,13 +237,20 @@
       "angle": "Real-time conflict resolution and operational transforms",
       "sent_at": "2026-09-28",
       "email_number": 34
+    },
+    {
+      "topic": "Ticketmaster / Flash Sale",
+      "tier": 2,
+      "angle": "Inventory lock, queue fairness, thundering herd",
+      "sent_at": "2026-10-01",
+      "email_number": 35
     }
   ],
   "stats": {
-    "total_sent": 34,
+    "total_sent": 35,
     "tier_counts": {
       "1": 28,
-      "2": 6,
+      "2": 7,
       "3": 0,
       "4": 0
     }
