@@ -244,13 +244,20 @@
       "angle": "Inventory lock, queue fairness, thundering herd",
       "sent_at": "2026-10-01",
       "email_number": 35
+    },
+    {
+      "topic": "Payment Gateway",
+      "tier": 2,
+      "angle": "Reliability, idempotency, and fraud prevention at scale",
+      "sent_at": "2026-10-04",
+      "email_number": 36
     }
   ],
   "stats": {
-    "total_sent": 35,
+    "total_sent": 36,
     "tier_counts": {
       "1": 28,
-      "2": 7,
+      "2": 8,
       "3": 0,
       "4": 0
     }
