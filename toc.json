@@ -251,13 +251,20 @@
       "angle": "Reliability, idempotency, and fraud prevention at scale",
       "sent_at": "2026-10-04",
       "email_number": 36
+    },
+    {
+      "topic": "OAuth 2.0 / SSO",
+      "tier": 2,
+      "angle": "Authorization server design and token lifecycle",
+      "sent_at": "2026-10-07",
+      "email_number": 37
     }
   ],
   "stats": {
-    "total_sent": 36,
+    "total_sent": 37,
     "tier_counts": {
       "1": 28,
-      "2": 8,
+      "2": 9,
       "3": 0,
       "4": 0
     }
