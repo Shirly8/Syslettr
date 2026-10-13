@@ -258,13 +258,20 @@
       "angle": "Authorization server design and token lifecycle",
       "sent_at": "2026-10-07",
       "email_number": 37
+    },
+    {
+      "topic": "Typeahead Search",
+      "tier": 2,
+      "angle": "Trie vs prefix index, ranking, freshness",
+      "sent_at": "2026-10-13",
+      "email_number": 38
     }
   ],
   "stats": {
-    "total_sent": 37,
+    "total_sent": 38,
     "tier_counts": {
       "1": 28,
-      "2": 9,
+      "2": 10,
       "3": 0,
       "4": 0
     }
