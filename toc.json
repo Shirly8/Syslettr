@@ -265,13 +265,20 @@
       "angle": "Trie vs prefix index, ranking, freshness",
       "sent_at": "2026-10-13",
       "email_number": 38
+    },
+    {
+      "topic": "Netflix",
+      "tier": 2,
+      "angle": "Video streaming pipeline and adaptive bitrate delivery",
+      "sent_at": "2026-10-16",
+      "email_number": 39
     }
   ],
   "stats": {
-    "total_sent": 38,
+    "total_sent": 39,
     "tier_counts": {
       "1": 28,
-      "2": 10,
+      "2": 11,
       "3": 0,
       "4": 0
     }
