@@ -272,13 +272,20 @@
       "angle": "Video streaming pipeline and adaptive bitrate delivery",
       "sent_at": "2026-10-16",
       "email_number": 39
+    },
+    {
+      "topic": "Airbnb",
+      "tier": 2,
+      "angle": "Search, availability, and double-booking prevention",
+      "sent_at": "2026-10-19",
+      "email_number": 40
     }
   ],
   "stats": {
-    "total_sent": 39,
+    "total_sent": 40,
     "tier_counts": {
       "1": 28,
-      "2": 11,
+      "2": 12,
       "3": 0,
       "4": 0
     }
