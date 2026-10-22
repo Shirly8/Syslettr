@@ -279,13 +279,20 @@
       "angle": "Search, availability, and double-booking prevention",
       "sent_at": "2026-10-19",
       "email_number": 40
+    },
+    {
+      "topic": "Instagram",
+      "tier": 2,
+      "angle": "Photo upload, feed generation, and social graph",
+      "sent_at": "2026-10-22",
+      "email_number": 41
     }
   ],
   "stats": {
-    "total_sent": 40,
+    "total_sent": 41,
     "tier_counts": {
       "1": 28,
-      "2": 12,
+      "2": 13,
       "3": 0,
       "4": 0
     }
