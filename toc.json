@@ -286,13 +286,20 @@
       "angle": "Photo upload, feed generation, and social graph",
       "sent_at": "2026-10-22",
       "email_number": 41
+    },
+    {
+      "topic": "WhatsApp",
+      "tier": 2,
+      "angle": "Real-time messaging at global billion-user scale",
+      "sent_at": "2026-10-25",
+      "email_number": 42
     }
   ],
   "stats": {
-    "total_sent": 41,
+    "total_sent": 42,
     "tier_counts": {
       "1": 28,
-      "2": 13,
+      "2": 14,
       "3": 0,
       "4": 0
     }
