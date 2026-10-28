@@ -293,13 +293,20 @@
       "angle": "Real-time messaging at global billion-user scale",
       "sent_at": "2026-10-25",
       "email_number": 42
+    },
+    {
+      "topic": "Slack",
+      "tier": 2,
+      "angle": "Real-time messaging with fan-out at scale",
+      "sent_at": "2026-10-28",
+      "email_number": 43
     }
   ],
   "stats": {
-    "total_sent": 42,
+    "total_sent": 43,
     "tier_counts": {
       "1": 28,
-      "2": 14,
+      "2": 15,
       "3": 0,
       "4": 0
     }
