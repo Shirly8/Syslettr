@@ -300,13 +300,20 @@
       "angle": "Real-time messaging with fan-out at scale",
       "sent_at": "2026-10-28",
       "email_number": 43
+    },
+    {
+      "topic": "Amazon S3 / Object Storage",
+      "tier": 2,
+      "angle": "Distributed blob storage: write path, durability, metadata",
+      "sent_at": "2026-10-31",
+      "email_number": 44
     }
   ],
   "stats": {
-    "total_sent": 43,
+    "total_sent": 44,
     "tier_counts": {
       "1": 28,
-      "2": 15,
+      "2": 16,
       "3": 0,
       "4": 0
     }
