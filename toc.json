@@ -307,13 +307,20 @@
       "angle": "Distributed blob storage: write path, durability, metadata",
       "sent_at": "2026-10-31",
       "email_number": 44
+    },
+    {
+      "topic": "Distributed Tracing System",
+      "tier": 2,
+      "angle": "Trace ingestion, storage, and query at scale",
+      "sent_at": "2026-11-01",
+      "email_number": 45
     }
   ],
   "stats": {
-    "total_sent": 44,
+    "total_sent": 45,
     "tier_counts": {
       "1": 28,
-      "2": 16,
+      "2": 17,
       "3": 0,
       "4": 0
     }
