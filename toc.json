@@ -314,13 +314,20 @@
       "angle": "Trace ingestion, storage, and query at scale",
       "sent_at": "2026-11-01",
       "email_number": 45
+    },
+    {
+      "topic": "API Gateway",
+      "tier": 2,
+      "angle": "Rate limiting, routing, and cross-cutting concerns",
+      "sent_at": "2026-11-04",
+      "email_number": 46
     }
   ],
   "stats": {
-    "total_sent": 45,
+    "total_sent": 46,
     "tier_counts": {
       "1": 28,
-      "2": 17,
+      "2": 18,
       "3": 0,
       "4": 0
     }
