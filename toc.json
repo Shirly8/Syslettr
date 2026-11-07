@@ -321,13 +321,20 @@
       "angle": "Rate limiting, routing, and cross-cutting concerns",
       "sent_at": "2026-11-04",
       "email_number": 46
+    },
+    {
+      "topic": "Event Sourcing & CQRS",
+      "tier": 2,
+      "angle": "Audit-safe financial ledger with replay capability",
+      "sent_at": "2026-11-07",
+      "email_number": 47
     }
   ],
   "stats": {
-    "total_sent": 46,
+    "total_sent": 47,
     "tier_counts": {
       "1": 28,
-      "2": 18,
+      "2": 19,
       "3": 0,
       "4": 0
     }
