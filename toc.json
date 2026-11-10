@@ -328,13 +328,20 @@
       "angle": "Audit-safe financial ledger with replay capability",
       "sent_at": "2026-11-07",
       "email_number": 47
+    },
+    {
+      "topic": "Circuit Breaker Pattern",
+      "tier": 2,
+      "angle": "Preventing cascading failures in distributed services",
+      "sent_at": "2026-11-10",
+      "email_number": 48
     }
   ],
   "stats": {
-    "total_sent": 47,
+    "total_sent": 48,
     "tier_counts": {
       "1": 28,
-      "2": 19,
+      "2": 20,
       "3": 0,
       "4": 0
     }
