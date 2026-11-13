@@ -335,13 +335,20 @@
       "angle": "Preventing cascading failures in distributed services",
       "sent_at": "2026-11-10",
       "email_number": 48
+    },
+    {
+      "topic": "Time Series Database",
+      "tier": 2,
+      "angle": "Ingestion, compression, and query at scale",
+      "sent_at": "2026-11-13",
+      "email_number": 49
     }
   ],
   "stats": {
-    "total_sent": 48,
+    "total_sent": 49,
     "tier_counts": {
       "1": 28,
-      "2": 20,
+      "2": 21,
       "3": 0,
       "4": 0
     }
