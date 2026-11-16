@@ -342,13 +342,20 @@
       "angle": "Ingestion, compression, and query at scale",
       "sent_at": "2026-11-13",
       "email_number": 49
+    },
+    {
+      "topic": "Content Moderation System",
+      "tier": 2,
+      "angle": "Automated + human review pipeline at scale",
+      "sent_at": "2026-11-16",
+      "email_number": 50
     }
   ],
   "stats": {
-    "total_sent": 49,
+    "total_sent": 50,
     "tier_counts": {
       "1": 28,
-      "2": 21,
+      "2": 22,
       "3": 0,
       "4": 0
     }
