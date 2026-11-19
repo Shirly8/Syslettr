@@ -349,13 +349,20 @@
       "angle": "Automated + human review pipeline at scale",
       "sent_at": "2026-11-16",
       "email_number": 50
+    },
+    {
+      "topic": "A/B Testing Platform",
+      "tier": 2,
+      "angle": "Experiment assignment, consistency, and metric collection",
+      "sent_at": "2026-11-19",
+      "email_number": 51
     }
   ],
   "stats": {
-    "total_sent": 50,
+    "total_sent": 51,
     "tier_counts": {
       "1": 28,
-      "2": 22,
+      "2": 23,
       "3": 0,
       "4": 0
     }
