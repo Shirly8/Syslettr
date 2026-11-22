@@ -356,13 +356,20 @@
       "angle": "Experiment assignment, consistency, and metric collection",
       "sent_at": "2026-11-19",
       "email_number": 51
+    },
+    {
+      "topic": "Webhook Delivery System",
+      "tier": 2,
+      "angle": "Reliable at-least-once delivery with retry logic",
+      "sent_at": "2026-11-22",
+      "email_number": 52
     }
   ],
   "stats": {
-    "total_sent": 51,
+    "total_sent": 52,
     "tier_counts": {
       "1": 28,
-      "2": 23,
+      "2": 24,
       "3": 0,
       "4": 0
     }
