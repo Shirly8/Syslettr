@@ -363,13 +363,20 @@
       "angle": "Reliable at-least-once delivery with retry logic",
       "sent_at": "2026-11-22",
       "email_number": 52
+    },
+    {
+      "topic": "Email System (Gmail-scale)",
+      "tier": 2,
+      "angle": "Inbound pipeline, storage, and search at scale",
+      "sent_at": "2026-11-25",
+      "email_number": 53
     }
   ],
   "stats": {
-    "total_sent": 52,
+    "total_sent": 53,
     "tier_counts": {
       "1": 28,
-      "2": 24,
+      "2": 25,
       "3": 0,
       "4": 0
     }
